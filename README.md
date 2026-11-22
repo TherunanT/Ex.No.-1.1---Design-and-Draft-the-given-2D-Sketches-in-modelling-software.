@@ -13,36 +13,42 @@ To sketch the given drawing with dimensions using fusion 360 tool.
   
 ## PROCEDURE
 
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
+1.	Open Autodesk Fusion 360 and create a new design file,Click on Create Sketch and select Front (XZ) Plane.
+<img width="296" height="370" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/1d922c50-dbe4-4722-be22-cb0b9ef9898f" />
 
-![image](https://user-images.githubusercontent.com/113594316/198206497-ca83d495-119b-45cd-b43d-8ca3ea7e9544.png)
+2.  Draw the construction lines. At the origin, draw a circle of diameter 40 and create a circular pattern of six circles of radius 6mm on the previous circle and trim the unnecessary parts.
+<img width="410" height="513" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/3a593e35-8ca5-43f6-8227-dc1167b441ca" />  <img width="410" height="513" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/d7750401-ef6a-4a75-88a2-def2d4048cb1" />
+        
+3.  Draw the circles of diameters 32 mm and 20 mm with a point 65 mm above origin as center.
+4.  Draw the circles of diameters 20 mm and 10 mm with a point 50 mm below origin as center.
+5.  Draw the circles of radius 7 mm and 10 mm at a point 26 mm below origin and 47mm on any one side of the center  construction line.
+6.  Draw the circle of diameter 66 mm with origin as center. 
+7.  Draw the circle of radius 64mm and tangent it with the circles of diameter 66 mm and 32 mm and trim the unnecessary parts.
+<img width="407" height="509" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/d9c1af34-90fd-4817-b2d0-30431f92e1c4" />
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+8.  Draw the circle of radius 20 mm and tangent it with the circle of diameter 66 mm and circle of radius 10 mm and trim the unnecessary parts.
+9.  Draw the circle of radius 10 mm and tangent it with the circle of diameter 66 mm and circle of radius 10 mm.
+10. Draw the circle of radius 20 mm and tangent it with the circle of diameter 66 mm and circle of diameter 20 mm and previous circle of radius 10 mm ,then trim the unnecessary parts.
+11. Then mirror the sketch to the other side
+12. Click finish sketch.
+<img width="261" height="326" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/fc6ef515-4dc1-4896-951c-2d4e9f1ce454" />
 
-![image](https://user-images.githubusercontent.com/113594316/198206562-68463016-3f32-4a87-aa5b-7a17dd023b31.png)
+13. After finishing the sketch, switch to drawing mode to plot the sketch in ISO standard.
+<img width="261" height="326" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/f8a2e903-dd4c-4030-ba57-06b1b4a5b456" />
 
-5.	Use inspect feature to measure the dimensions of sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198206621-6348e8a3-4bbd-4a1f-96d3-db16fbf933d9.png)
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198206639-31c4bdb5-b13e-4106-bcf5-125c294aa03e.png)
 
-7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
-
-![image](https://user-images.githubusercontent.com/113594316/198206697-2e3ead2b-7d1e-436e-bc36-aa2e73c1e78e.png)
-
-![image](https://user-images.githubusercontent.com/113594316/198206721-8ad45462-2675-4be2-964f-621c8fc4490e.png)
 
 
 ## SKETCHS
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+ <img width="945" height="675" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/f7e492d7-0227-4c8b-a0ca-12876b4eebd8" />
 
+<img width="1037" height="749" alt="Screenshot - 48" src="https://github.com/user-attachments/assets/4cfc3500-c519-454a-8504-ec09a758de63" />
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
