@@ -28,13 +28,14 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 8.  Draw the circle of radius 20 mm and tangent it with the circle of diameter 66 mm and circle of radius 10 mm and trim the unnecessary parts.
    <img width="410" height="513" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/d7750401-ef6a-4a75-88a2-def2d4048cb1" />
-9.  Draw the circle of radius 10 mm and tangent it with the circle of diameter 66 mm and circle of radius 10 mm.
-10. Draw the circle of radius 20 mm and tangent it with the circle of diameter 66 mm and circle of diameter 20 mm and previous circle of radius 10 mm ,then trim the unnecessary parts.
-11. Then mirror the sketch to the other side
-12. Click finish sketch.
+
+10.  Draw the circle of radius 10 mm and tangent it with the circle of diameter 66 mm and circle of radius 10 mm.
+11.  Draw the circle of radius 20 mm and tangent it with the circle of diameter 66 mm and circle of diameter 20 mm and previous circle of radius 10 mm ,then trim the unnecessary parts.
+12.  Then mirror the sketch to the other side
+13.  Click finish sketch.
   <img width="261" height="326" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/fc6ef515-4dc1-4896-951c-2d4e9f1ce454" />
 
-13. After finishing the sketch, switch to drawing mode to plot the sketch in ISO standard.
+14.  After finishing the sketch, switch to drawing mode to plot the sketch in ISO standard.
 
   <img width="521" height="651" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/62043828-ff31-4314-b333-ad7568f718b4" />
 
